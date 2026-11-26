@@ -1,0 +1,6 @@
+# The downloaded bounty kit (18 MB CLI + starter) lives beside the entry for
+# bundling and checks, but it is not part of the entry itself.
+best-flight-game-20261126-0057-kit/
+# Local build outputs from `main.ts`.
+out/
+out2/
